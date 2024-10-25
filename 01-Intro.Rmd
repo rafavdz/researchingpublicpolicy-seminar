@@ -3,6 +3,7 @@ title: "Introduction to R. Researching Public Policy Seminar"
 date: "`r Sys.Date()`"
 output:
   rmdformats::robobook:
+    use_bookdown: true
 ---
 
 ```{r setup, include=FALSE}
@@ -110,7 +111,7 @@ knitr::include_graphics("./images/rstudio_cloud_console.png")
 ## Hands on R
 
 Now you are ready! It is your turn to start exploring and getting familiar with R by completing the following activities.
-5 
+
 #### R as calculator
 
 Go to your **console** (pane 3, bottom-left pane), write some simple calculations and run them by typing 'enter' after each of them, as shown below.
