@@ -3,7 +3,6 @@ title: "Introduction to R. Researching Public Policy Seminar"
 date: "`r Sys.Date()`"
 output:
   rmdformats::robobook:
-    use_bookdown: true
 ---
 
 ```{r setup, include=FALSE}
